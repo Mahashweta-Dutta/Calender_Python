@@ -33,3 +33,39 @@ A Python-based monthly calendar application built with **Tkinter**, featuring sm
  https://github.com/Mahashweta-Dutta/Calender_Python
    cd smart-calendar-reminders
 # Calender_Python
+python main.py
+
+💻 Tech Stack
+Python 3
+
+Tkinter for GUI
+
+Datetime & Calendar modules
+
+JSON for data storage
+
+📁 File Structure
+bash
+Copy
+Edit
+smart-calendar-reminders/
+├── main.py             # Main application file
+├── reminders.json      # Stores all reminders (auto-generated)
+└── README.md           # Project documentation
+✍️ Author
+Developed by [Your Name] – BTech CSE Student, Narula Institute of Technology
+Internship Project for Pinnacle Lab
+
+📃 License
+This project is open-source and available under the MIT License.
+
+yaml
+Copy
+Edit
+
+---
+
+Let me know:
+- If you want to add a **GitHub project link*, Mahashweta Dutta, mahashwetadutta13@gmail.com
+
+Ready to go on GitHub!
