@@ -23,19 +23,13 @@ A Python-based monthly calendar application built with **Tkinter**, featuring sm
 
 - 🔔 **Automatic Notifications**  
   Displays a popup alert on app startup for reminders scheduled for the current day.
-
 ---
 
-## 📽️ Demo
-
-> A short demo of the app in action is available [here](#) *(Replace with video link or GitHub release attachment)*
-
----
 
 ## 🚀 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-calendar-reminders.git
+ https://github.com/Mahashweta-Dutta/Calender_Python
    cd smart-calendar-reminders
 # Calender_Python
