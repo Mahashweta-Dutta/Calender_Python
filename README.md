@@ -49,11 +49,11 @@ bash
 Copy
 Edit
 smart-calendar-reminders/
-├── main.py             # Main application file
-├── reminders.json      # Stores all reminders (auto-generated)
-└── README.md           # Project documentation
+├── main.py            
+├── reminders.json      
+└── README.md          
 ✍️ Author
-Developed by [Your Name] – BTech CSE Student, Narula Institute of Technology
+Developed by Mahashweta Dutta – BTech CSE Student, Narula Institute of Technology
 Internship Project for Pinnacle Lab
 
 📃 License
