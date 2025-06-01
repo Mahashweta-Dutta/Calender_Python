@@ -48,7 +48,9 @@ JSON for data storage
 bash
 Copy
 Edit
+
 smart-calendar-reminders/
+
 ├── main.py            
 ├── reminders.json      
 └── README.md          
