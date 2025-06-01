@@ -66,6 +66,6 @@ Edit
 ---
 
 Let me know:
-- If you want to add a **GitHub project link*, Mahashweta Dutta, mahashwetadutta13@gmail.com
+- If you want to add a *[GitHub project lin](https://github.com/Mahashweta-Dutta/Calender_Python )*, Mahashweta Dutta, mahashwetadutta13@gmail.com
 
 Ready to go on GitHub!
